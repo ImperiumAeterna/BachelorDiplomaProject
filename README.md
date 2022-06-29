@@ -1,7 +1,7 @@
 # Half-Cooperative-Dijkstra-Pathfinding
 Half-cooperative Dijkstra algorithm modification. Bachelor degree diploma project by Vladislav Kogan.
 
-Bachelor degree diploma work was defended on 20th June, 2022. Result of defense is 95/100 points ("A" grade in ECTS grading scale).
+Bachelor degree diploma work was defended on 20th June, 2022 in Odessa I. I. Mechnikov National University. Result of defense is 95/100 points ("A" grade in ECTS grading scale).
 
 Pathfinding remains to be an interesting research topic closely related to the efficient allocation of agents’ resourses. The goal of pathfinding is usually to find the shortest path from one graph point to another. Many real-world applications can be viewed as pathfinding problems, such as motion planning, logistics, and decision making.
 
