@@ -7,7 +7,7 @@ Many algorithms have been proposed to solve pathfinding-related problems. Solvin
 
 The aim of this thesis is to implement, based on existing methods of solving route planning problems, a method for rational route planning for several agents, who trying to avoid mutual conflicts. The thesis analyzes existing algorithms for solving the problem, analyzes and evaluates existing tools for their implementation, and implements some of the algorithms. As a result of the thesis work, a transitive pathfinding algorithm for multiple agents, who trying to avoid mutual conflicts, is designed and implemented.
 
-Modification realised using grids with weights as an example. For this purpose some pieces of code by Amit Patel provided Apache 2.0 licence are used.
+Modification realised by using grids with weights as an example. For this purpose some pieces of code by Amit Patel provided Apache 2.0 licence are used.
 
 Half-cooperative Dijkstra provides multiple agents information to avoiding each other using weights changes according to each new agent's path. It's half-cooperative due to agents not provided about specific position of each other, just path in general.
 
