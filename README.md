@@ -11,4 +11,4 @@ Modification realised by using grids with weights as an example. For this purpos
 
 Half-cooperative Dijkstra provides multiple agents information to avoiding each other using weights changes according to each new agent's path. It's half-cooperative due to agents not provided about specific position of each other, just path in general.
 
-Bachelor degree diploma work defense done 20th of June 2022. Result of defense is 95/100 points (A grade in ECTS grading scale).
+Bachelor degree diploma work defense done 20th of June 2022. Result of defense is 95/100 points ("A" grade in ECTS grading scale).
